@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "CurrenciesTableViewController.searchBarTextDidEndEditing(_:):CurrenciesTableViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "CoreDataController.addBill(billDescription:billDate:amount:category:billingCycle:):CoreDataController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "dateComponents.second">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TransactionViewController.onTransactionsChange(change:transactions:):TransactionViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "transactions[0].amount">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CoreDataController.addBill(billDescription:billDate:amount:category:):CoreDataController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "dateComponents.day">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in TransactionViewController.filterTransaction(_:):TransactionViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "transaction.type">
+            </PersistentString>
+            <PersistentString
+               value = "transaction.amount">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CurrenciesTableViewController.getExchangeRate():CurrenciesTableViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TransactionViewController.filterTransaction(_:):TransactionViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "transaction">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AddTransactionViewController.addTransaction(_:):AddTransactionViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "amountTextField.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
